@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\Uppgift-1-Gissa-talet\obj\Debug\net8.0\refint\Up
 C:\Users\Admin\Documents\GitHub\Uppgift-1-Gissa-talet\obj\Debug\net8.0\Uppgift-1-Gissa-talet.pdb
 C:\Users\Admin\Documents\GitHub\Uppgift-1-Gissa-talet\obj\Debug\net8.0\Uppgift-1-Gissa-talet.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Uppgift-1-Gissa-talet\obj\Debug\net8.0\ref\Uppgift-1-Gissa-talet.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Gissa-talet\obj\Debug\net8.0\Uppgift-1-Gissa-talet.sourcelink.json
