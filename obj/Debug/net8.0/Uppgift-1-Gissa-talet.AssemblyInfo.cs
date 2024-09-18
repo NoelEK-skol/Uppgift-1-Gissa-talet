@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uppgift-1-Gissa-talet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1bc6c5a7712c7ab7df32ceea73e630be4d28101")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f1f84a70a8ff0330b0c9810469f854ae450dfcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uppgift-1-Gissa-talet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uppgift-1-Gissa-talet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
