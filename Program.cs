@@ -19,4 +19,4 @@ do
     }
 } while (number != randomNumber);
 Console.WriteLine("Rätt!");
-Console.WriteLine("Det tog dig" + " " + antalgissningar + " " + "gissningar");
+Console.WriteLine("Det tog dig " + antalgissningar + " gissningar");
